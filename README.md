@@ -6,6 +6,3 @@
 - JS
 - Data and loop for slider
 - Gulp
-
-
-![screenshot](https://github.com/ivanchelovekov/Furniture/blob/main/img/hero/hero-bg.jpg)
